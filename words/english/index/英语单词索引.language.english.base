@@ -1,0 +1,326 @@
+filters:
+  and:
+    - file.folder.startsWith("words/english")
+    - file.tags.contains("language/english")
+views:
+  - type: table
+    name: english
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.A
+    filters:
+      and:
+        - file.basename.startsWith("a")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.B
+    filters:
+      and:
+        - file.basename.startsWith("b")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.C
+    filters:
+      and:
+        - file.basename.startsWith("c")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.D
+    filters:
+      and:
+        - file.basename.startsWith("d")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.E
+    filters:
+      and:
+        - file.basename.startsWith("e")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.F
+    filters:
+      and:
+        - file.basename.startsWith("f")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.G
+    filters:
+      and:
+        - file.basename.startsWith("g")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.H
+    filters:
+      and:
+        - file.basename.startsWith("h")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.I
+    filters:
+      and:
+        - file.basename.startsWith("i")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.J
+    filters:
+      and:
+        - file.basename.startsWith("j")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.K
+    filters:
+      and:
+        - file.basename.startsWith("k")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.L
+    filters:
+      and:
+        - file.basename.startsWith("l")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.M
+    filters:
+      and:
+        - file.basename.startsWith("m")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.N
+    filters:
+      and:
+        - file.basename.startsWith("n")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.O
+    filters:
+      and:
+        - file.basename.startsWith("o")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.P
+    filters:
+      and:
+        - file.basename.startsWith("p")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.Q
+    filters:
+      and:
+        - file.basename.startsWith("q")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.R
+    filters:
+      and:
+        - file.basename.startsWith("r")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.S
+    filters:
+      and:
+        - file.basename.startsWith("s")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.T
+    filters:
+      and:
+        - file.basename.startsWith("t")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.U
+    filters:
+      and:
+        - file.basename.startsWith("u")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.V
+    filters:
+      and:
+        - file.basename.startsWith("v")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.W
+    filters:
+      and:
+        - file.basename.startsWith("w")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.X
+    filters:
+      and:
+        - file.basename.startsWith("x")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.Y
+    filters:
+      and:
+        - file.basename.startsWith("y")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: english.Z
+    filters:
+      and:
+        - file.basename.startsWith("z")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日

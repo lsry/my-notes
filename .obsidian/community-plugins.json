@@ -1,4 +1,7 @@
 [
   "realclaudian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git",
+  "openwords",
+  "obsidian-excalidraw-plugin"
 ]

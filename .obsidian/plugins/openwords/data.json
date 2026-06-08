@@ -1,0 +1,20 @@
+{
+  "folderPath": "words/english",
+  "indexPath": "words/english/index",
+  "enabledTags": [
+    "language/english"
+  ],
+  "tagHistory": [
+    "级别/小学",
+    "级别/中考",
+    "级别/高考四级",
+    "级别/考研",
+    "级别/六级",
+    "级别/雅思",
+    "级别/托福",
+    "级别/GRE",
+    "language/english"
+  ],
+  "randomRatio": 0.7,
+  "maxEfactorForLink": 2.6
+}

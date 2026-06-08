@@ -1,0 +1,96 @@
+filters:
+  and:
+    - file.folder.startsWith("words/english")
+views:
+  - type: table
+    name: 总计
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 待学习
+    filters:
+      and:
+        - or:
+            - file.tags.contains("language/english")
+        - and:
+            - 掌握 == false
+        - and:
+            - 重复次数 == 0
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 待复习
+    filters:
+      and:
+        - or:
+            - file.tags.contains("language/english")
+        - and:
+            - 掌握 == false
+        - and:
+            - 重复次数 != 0
+        - and:
+            - 到期日 > today()
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 今日到期
+    filters:
+      and:
+        - or:
+            - file.tags.contains("language/english")
+        - and:
+            - 掌握 == false
+        - and:
+            - 重复次数 != 0
+        - and:
+            - 到期日 <= today()
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 已掌握
+    filters:
+      and:
+        - and:
+            - 掌握 == true
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 未启用
+    filters:
+      or:
+        - not:
+            - file.tags.contains("language/english")
+        - and:
+            - 掌握 == true
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
