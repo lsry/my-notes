@@ -19,4 +19,4 @@ adj.未察觉的，不注意的
 
 ## 笔记
 1. 2026 英语高考出现
-2. mujika oblivionis
+2. mujica oblivionis

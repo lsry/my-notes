@@ -4,20 +4,20 @@
   "title": "Add oblivious to English word list",
   "titleGenerationStatus": "success",
   "createdAt": 1780936268205,
-  "updatedAt": 1780936301373,
-  "lastResponseAt": 1780936301373,
+  "updatedAt": 1781007645464,
+  "lastResponseAt": 1781007645464,
   "sessionId": "53015723-db4e-48b2-af66-1ccac00428eb",
   "providerState": {
     "providerSessionId": "53015723-db4e-48b2-af66-1ccac00428eb"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 99,
+    "inputTokens": 38,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 23296,
+    "cacheReadInputTokens": 40064,
     "contextWindow": 200000,
-    "contextTokens": 23395,
-    "percentage": 12,
+    "contextTokens": 40102,
+    "percentage": 20,
     "contextWindowIsAuthoritative": true
   }
 }
