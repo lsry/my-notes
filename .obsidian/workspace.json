@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "379c7c275c82a42d",
+        "id": "451145bc2c55f260",
         "type": "tabs",
         "children": [
           {
-            "id": "f050de74753efa01",
+            "id": "bb85deb34d93aa69",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "thoughts/资源属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "资源属性 的反向链接列表"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "thoughts/资源属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "资源属性 的出链列表"
             }
           },
           {
@@ -189,6 +191,17 @@
   },
   "active": "0bc132f2d73a0e2e",
   "lastOpenFiles": [
+    "thoughts/资源属性.md",
+    "未命名.base",
+    "templates/単語.md",
+    "thoughts/资源消耗观念：成本与消费.md",
+    "日语单词.md",
+    "English.md",
+    "thoughts/成本与消费.md.tmp.17664.403d5453c014",
+    "words/english/index/英语单词索引.language.english.base",
+    "words/english/index/英语单词索引.md",
+    "words/english/index/英语单词索引.总计.base",
+    "words/english/index/英语单词状态.base",
     "words/english/words/v/vanish.md",
     "words/english/words/r/ravage.md",
     "words/english/words/p/proportional.md",
@@ -197,19 +210,12 @@
     "words/nihongo/tango/コ/コンテンツ.md",
     "words/nihongo/tango/い/いたずら.md",
     "words/nihongo/tango/し/指名手配.md",
-    "日语单词.md",
     "words/nihongo/tango/ピ/ピンチ.md",
     "words/nihonggo/tanggo/ピ/ピンチ.md.tmp.30024.fc87861c2c18",
     "words/nihonggo/tanggo/指/指名手配.md.tmp.30024.f2ae8f907ec9",
     "words/nihonggo/tanggo/コ/コンテンツ.md.tmp.30024.16c4cf89bc85",
     "words/nihonggo/tanggo/い/いたずら.md.tmp.30024.4f2088b556e9",
     "words/nihongo/tango/し",
-    "words/nihongo/tango/コ",
-    "words/nihongo/tango/ピ",
-    "words/nihongo/tango/い",
-    "words/nihongo/tanggo",
-    "words/nihonggo",
-    "English.md",
     "words/english/words/a/as_an_aside.md",
     "words/english/words/a/anomalous.md",
     "words/english/words/t/take_aback.md",
@@ -220,11 +226,6 @@
     "words/english/words/r/rectify.md",
     "words/english/words/l/leave_out.md",
     "words/english/words/e/exacerbated.md",
-    "words/english/words/e/envision.md",
-    "words/english/words/d/domestic.md",
-    "words/english/words/d/distill.md",
-    "words/english/words/d/disguise.md",
-    "words/english/words/d/devise.md",
     "未命名.canvas"
   ]
 }
