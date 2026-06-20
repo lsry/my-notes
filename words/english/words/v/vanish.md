@@ -17,4 +17,7 @@ vi.消失；消亡
 ## 例句
 - After years at the top, she just **vanished** from the scene.
 
+## 词源
+来自拉丁语 ēvānēscere（"消失、消散"），由 ē-（"出、向外"，ex- 的变体）和 vānēscere（"变空、消失"）构成。vānēscere 源于 vānus（"空的"），与 vain（徒劳的）、vacuum（真空）同源。
+
 ## 笔记

@@ -17,4 +17,7 @@ tags:
 ## 例句
 - Its progress should **be attributed to** ASEAN's leading role.
 
+## 词源
+attribute 来自拉丁语 attribuere，由 ad-（"向"）和 tribuere（"分配、给予"）组合而成，原意为"分配、归与"。
+
 ## 笔记

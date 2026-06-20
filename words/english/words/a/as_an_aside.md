@@ -17,4 +17,7 @@ tags:
 ## 例句
 - He mentioned the bribe almost **as an aside**.
 
+## 词源
+短语表达，aside 由 a-（表"在…方向"）+ side（边、侧）构成，14世纪晚期出现，原指戏剧中演员"对观众自言自语"的旁白。
+
 ## 笔记
