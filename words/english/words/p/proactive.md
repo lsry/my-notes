@@ -14,6 +14,14 @@ tags:
 ## 意思
 adj.主动的，积极主动的
 
+## 释义
+主动的，积极主动的——提前采取行动应对未来挑战，而非被动应对
+
+### 常用短语
+- **proactive approach** — 主动的方法
+- **proactive measures** — 主动措施
+- **proactive vs. reactive** — 主动与被动（对比）
+
 ## 例句
 - We need to take a **proactive** approach to problem-solving.
 

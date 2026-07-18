@@ -14,6 +14,14 @@ tags:
 ## 意思
 用于否定陈述后，除了…以外
 
+## 释义
+1. 除了……以外——用于否定句中表示排除
+2. 不同于——表示与……不同（常用于 none other than 结构）
+
+### 常用短语
+- **none other than** — 正是；不是别人正是
+- **other than that** — 除此之外
+
 ## 例句
 - Her first customer was none **other than** Mrs Blair.
 

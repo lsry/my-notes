@@ -14,6 +14,14 @@ tags:
 ## 意思
 n.可能性
 
+## 释义
+可能性，概率——某件事发生或为真的可能性有多大
+
+### 常用短语
+- **in all likelihood** — 极有可能
+- **strong likelihood** — 很大的可能性
+- **likelihood of sth** — 某事的可能性
+
 ## 例句
 - There is a strong **likelihood** that it will rain today.
 

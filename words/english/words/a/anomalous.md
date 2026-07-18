@@ -14,6 +14,14 @@ tags:
 ## 意思
 adj.异常的；反常的
 
+## 释义
+1. 异常的，反常的——偏离正常标准的
+2. 不规则的，无法归类的
+
+### 常用短语
+- **anomalous behavior** — 反常行为
+- **anomalous result** — 异常结果
+
 ## 例句
 - For years this **anomalous** behaviour has baffled scientists.
 

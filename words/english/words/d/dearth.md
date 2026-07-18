@@ -14,6 +14,14 @@ tags:
 ## 意思
 n.缺乏；不足
 
+## 释义
+1. 缺乏，不足——某物供应量极少的状况
+2. 饥荒（古义）——食物匮乏
+
+### 常用短语
+- **a dearth of** — 缺乏（某物）
+- **dearth of information** — 信息匮乏
+
 ## 例句
 - There is a **dearth** of introductory educational material available about modern network load balancing.
 

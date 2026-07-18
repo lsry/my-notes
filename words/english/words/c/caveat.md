@@ -14,6 +14,14 @@ tags:
 ## 意思
 n.警告；告诫
 
+## 释义
+1. 警告，告诫——提醒注意潜在问题或限制的声明
+2. 限制性条款——法律上用于中止诉讼的申请
+
+### 常用短语
+- **caveat emptor** — 买者自负（购物需谨慎）
+- **with the caveat that...** — 以……为条件/限制
+
 ## 例句
 - I would offer a **caveat** for those who want to join me in the dual calling.
 

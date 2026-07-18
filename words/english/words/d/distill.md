@@ -14,6 +14,15 @@ tags:
 ## 意思
 vt.蒸馏；提取；滴下
 
+## 释义
+1. 蒸馏——通过加热和冷凝纯化液体
+2. 提取，提炼——从某物中提取精华
+3. 滴下——一滴滴地落下
+
+### 常用短语
+- **distill sth from** — 从……中提取
+- **distilled water** — 蒸馏水
+
 ## 例句
 - **Distill** the crucial points of the book.
 

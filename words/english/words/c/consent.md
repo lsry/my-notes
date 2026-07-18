@@ -14,6 +14,15 @@ tags:
 ## 意思
 n.同意，许可；vi.同意，允许
 
+## 释义
+1. 同意，许可 (n.)——对提议或请求的批准
+2. 同意，允许 (v.)——表示同意或允许某事发生
+
+### 常用短语
+- **informed consent** — 知情同意（医学伦理）
+- **consent to** — 同意（某事物）
+- **age of consent** — 法定同意年龄
+
 ## 例句
 - He gave his **consent** for the project to proceed.
 - She **consented** to the surgery.

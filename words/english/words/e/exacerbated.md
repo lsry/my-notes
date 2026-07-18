@@ -14,6 +14,13 @@ tags:
 ## 意思
 v.使加剧；使恶化；使加重
 
+## 释义
+使加剧，使恶化——使原本不好的情况变得更糟或更严重
+
+### 常用短语
+- **exacerbate the problem** — 使问题恶化
+- **exacerbate tensions** — 加剧紧张局势
+
 ## 例句
 - In fact efforts will merely **exacerbate** the current problem.
 

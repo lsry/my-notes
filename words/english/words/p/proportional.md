@@ -14,6 +14,15 @@ tags:
 ## 意思
 adj.相称的；成比例的；均衡的
 
+## 释义
+1. 成比例的——与另一事物在大小、数量上保持固定比率
+2. 相称的——恰当的、均衡的
+
+### 常用短语
+- **proportional to** — 与……成比例
+- **directly proportional** — 成正比
+- **inversely proportional** — 成反比
+
 ## 例句
 -
 

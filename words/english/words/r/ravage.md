@@ -14,6 +14,15 @@ tags:
 ## 意思
 vt.蹂躏；毁坏；n.灾害；破坏
 
+## 释义
+1. 蹂躏，毁坏 (v.)——对某地造成严重破坏
+2. 破坏性影响 (n., 常用复数 ravages)——破坏的后果
+
+### 常用短语
+- **ravage the country** — 蹂躏该国
+- **the ravages of time** — 时间的摧残/岁月留下的痕迹
+- **the ravages of war** — 战争的创伤
+
 ## 例句
 - Her looks had not survived the **ravages** of time.
 

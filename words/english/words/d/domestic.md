@@ -14,6 +14,18 @@ tags:
 ## 意思
 adj.本国的；家庭的；n.家佣；家庭纠纷
 
+## 释义
+1. 本国的，国内的 (adj.)——与本国相关的，而非外国的
+2. 家庭的 (adj.)——与家或家庭生活相关的
+3. 家佣，管家 (n.)——受雇从事家务的人（通常为 domestic servant 的简写）
+4. 家庭纠纷 (n.)——家庭内部的争执（domestic dispute）
+
+### 常用短语
+- **domestic market** — 国内市场
+- **domestic violence** — 家庭暴力
+- **domestic flight** — 国内航班
+- **GDP** (Gross Domestic Product) — 国内生产总值
+
 ## 例句
 - **Domestic** prices have been aligned with those in world markets.
 

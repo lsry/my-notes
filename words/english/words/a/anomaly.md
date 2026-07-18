@@ -14,6 +14,14 @@ tags:
 ## 意思
 n.异常事物；反常现象
 
+## 释义
+1. 异常事物，反常现象——指偏离正常或预期的事物
+2. 统计上的异常值
+
+### 常用短语
+- **statistical anomaly** — 统计异常值
+- **genetic anomaly** — 遗传异常
+
 ## 例句
 - Research on Technique of **Anomaly** Detection for Network Situation Awareness System.
 

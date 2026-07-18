@@ -14,6 +14,13 @@ tags:
 ## 意思
 被认为是…所为
 
+## 释义
+将某事归因于某人或某物，认为某事是由某原因造成的
+
+### 常用短语
+- **be attributed to** — 归因于；被认为是……的功劳/原因
+- **attribute sth to sb** — 将某事归功/归咎于某人
+
 ## 例句
 - Its progress should **be attributed to** ASEAN's leading role.
 

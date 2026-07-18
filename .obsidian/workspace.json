@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14e971d8b17bc57c",
+        "id": "0580a2548a2ba55c",
         "type": "tabs",
         "children": [
           {
-            "id": "25043e78a60acc50",
+            "id": "e848e4dc0b530ac4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -164,20 +165,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "e52a30703c9950e7",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
             }
           }
         ],
@@ -203,44 +190,44 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "25043e78a60acc50",
+  "active": "e848e4dc0b530ac4",
   "lastOpenFiles": [
-    "record/Caching patterns.md",
-    "words/english/words/p/proactive.md",
+    "words/english/words/p/perceived.md",
+    "words/english/words/p/perceived.md.tmp.2176.dc74b2a8daa2",
+    "words/english/words/p/perspective.md",
+    "words/english/words/d/dedicated.md",
+    "words/english/words/c/crux.md",
+    "words/english/words/c/caveat.md",
+    "templates/word.md",
     "templates/単語.md",
+    "record/Caching patterns.md",
+    "thoughts/资源消耗观念：成本与消费.md",
+    "thoughts/资源属性.md",
+    "words/english/words/d/dearth.md",
+    "words/english/words/v/vanish.md",
+    "words/english/words/l/leave_out.md",
+    "words/english/words/o/oblivious.md",
+    "words/english/words/v/vendor.md.tmp.2176.7b1545e04dc5",
+    "words/english/words/t/take_aback.md.tmp.2176.b92effe15bbb",
+    "words/english/words/r/refractive.md.tmp.2176.d49beabae694",
+    "words/english/words/r/reminiscent.md.tmp.2176.cb484809b2cd",
+    "words/english/words/r/relevant.md.tmp.2176.b13321166a6f",
+    "words/english/words/r/rectify.md.tmp.2176.1be12883607f",
+    "words/english/words/r/ravage.md.tmp.2176.1f00675b22a4",
+    "words/english/words/p/perspective.md.tmp.2176.ef89a0c04b13",
+    "words/english/words/p/proactive.md.tmp.2176.a48ad7b25454",
+    "words/english/words/a/anatomy.md",
+    "words/english/words/r/refractive.md",
+    "words/english/words/p/proactive.md",
     "words/english/words/a/anomaly.md",
     "words/english/words/a/anomalous.md",
-    "templates/word.md",
-    "words/english/words/v/vendor.md.tmp.28260.8dd80bd24b94",
-    "words/english/words/v/vanish.md.tmp.28260.7b20b30a0a7b",
-    "words/english/words/t/take_aback.md.tmp.28260.b140094e03ad",
-    "words/english/words/r/reminiscent.md.tmp.28260.e6ca2bece02d",
-    "words/english/words/r/relevant.md.tmp.28260.d5048e1a4f10",
-    "words/english/words/r/rectify.md.tmp.28260.ef03a28aba29",
-    "words/english/words/r/ravage.md.tmp.28260.e686eaa43398",
-    "words/english/words/o/other_than.md.tmp.28260.d36ce88128da",
-    "words/english/words/e/exacerbated.md.tmp.28260.67504108e24e",
-    "words/english/words/e/envision.md.tmp.28260.f7f428c0b8ed",
     "words/english/words/l/likelihood.md",
     "words/english/words/c/consent.md",
-    "thoughts/资源属性.md",
-    "thoughts/资源消耗观念：成本与消费.md",
     "diary/2026-06-09.md",
-    "words/english/words/c/crux.md",
     "日语单词.md",
     "English.md",
     "words/english/index/英语单词索引.md",
-    "words/english/words/v/vanish.md",
     "words/english/words/r/ravage.md",
-    "words/english/words/p/proportional.md",
-    "words/english/words/o/oblivious.md",
-    "words/english/words/b/be_attributed_to.md",
-    "words/nihongo/tango/コ/コンテンツ.md",
-    "words/nihongo/tango/い/いたずら.md",
-    "words/nihongo/tango/し/指名手配.md",
-    "words/nihongo/tango/ピ/ピンチ.md",
-    "words/english/words/a/as_an_aside.md",
-    "words/english/words/t/take_aback.md",
     "未命名.canvas"
   ]
 }

@@ -14,6 +14,12 @@ tags:
 ## 意思
 此外；题外话；顺便说一句
 
+## 释义
+在正式讨论或叙述中插入的题外话，用于引出补充性评论
+
+### 常用短语
+- **mention as an aside** — 顺便提及
+
 ## 例句
 - He mentioned the bribe almost **as an aside**.
 

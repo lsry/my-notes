@@ -14,6 +14,15 @@ tags:
 ## 意思
 n.小贩；卖主；銷售公司
 
+## 释义
+1. 小贩，摊贩——在街头或市场卖东西的人
+2. 卖主，供应商——向企业销售产品或服务的公司
+
+### 常用短语
+- **street vendor** — 街头小贩
+- **software vendor** — 软件供应商
+- **vendor list** — 供应商名单
+
 ## 例句
 - Kamal was a **vendor** in Egypt's open-air bazaar.
 

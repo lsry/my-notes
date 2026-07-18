@@ -14,6 +14,13 @@ tags:
 ## 意思
 决不；丝毫不；一点儿也不
 
+## 释义
+用于加强否定语气，表示"绝对不"或"无论如何也不"
+
+### 常用短语
+- **by no means** — 决不，绝不
+- **by all means** — 当然可以（反义短语）
+
 ## 例句
 - That was **by no means** the end of the matter.
 

@@ -14,6 +14,15 @@ tags:
 ## 意思
 vi.消失；消亡
 
+## 释义
+1. 消失——突然不再可见或存在
+2. 消亡，灭绝——逐渐消失并最终不复存在
+
+### 常用短语
+- **vanish into thin air** — 凭空消失
+- **vanish from sight** — 从视线中消失
+- **vanish without a trace** — 消失得无影无踪
+
 ## 例句
 - After years at the top, she just **vanished** from the scene.
 

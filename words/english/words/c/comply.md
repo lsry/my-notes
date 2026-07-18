@@ -14,6 +14,14 @@ tags:
 ## 意思
 vi.遵守；遵从；服从；顺从
 
+## 释义
+1. 遵守，遵从——按要求或命令行事
+2. 服从，顺从——听从指示或规则
+
+### 常用短语
+- **comply with** — 遵守（规则、法律、要求等）
+- **refuse to comply** — 拒绝服从
+
 ## 例句
 - They refused to **comply with** the UN resolution.
 

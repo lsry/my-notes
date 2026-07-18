@@ -14,6 +14,14 @@ tags:
 ## 意思
 n.关键，核心；症结
 
+## 释义
+1. 关键，核心——问题最重要或最困难的部分
+2. 症结，难题——难以解决的核心问题
+
+### 常用短语
+- **the crux of the matter** — 问题的关键
+- **crux of the argument** — 论证的核心
+
 ## 例句
 - The **crux** of the matter is that we have no time left.
 

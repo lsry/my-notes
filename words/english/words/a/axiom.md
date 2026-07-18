@@ -14,6 +14,14 @@ tags:
 ## 意思
 n.公理
 
+## 释义
+1. 公理——被普遍认为不言自明、无需证明的基本原理
+2. 格言，自明之理
+
+### 常用短语
+- **mathematical axiom** — 数学公理
+- **It is an axiom that...** — ……是不言而喻的
+
 ## 例句
 - New **axiom** systems for the set theory.
 

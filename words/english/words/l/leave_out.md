@@ -14,6 +14,15 @@ tags:
 ## 意思
 遗漏；排除；省略
 
+## 释义
+1. 遗漏——未能包括在内
+2. 排除——故意不列入
+3. 省略——省去某部分
+
+### 常用短语
+- **leave out** — 遗漏；省略
+- **feel left out** — 感到被冷落/排斥
+
 ## 例句
 - If you prefer mild flavours, reduce or **leave out** the chilli.
 

@@ -14,6 +14,14 @@ tags:
 ## 意思
 vt.展望；想象
 
+## 释义
+1. 展望，想象——在脑海中设想未来可能发生的事情
+2. 预想——预先设想某种场景或可能性
+
+### 常用短语
+- **envision a future** — 展望未来
+- **envision doing sth** — 设想做某事
+
 ## 例句
 - They **envision** an equal society, free from poverty and disease.
 

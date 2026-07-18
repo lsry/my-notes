@@ -14,6 +14,16 @@ tags:
 ## 意思
 vt.假扮；掩蔽；n.伪装物；假扮
 
+## 释义
+1. 假扮，伪装 (v.)——改变外貌或身份以不被人认出
+2. 掩蔽，隐藏 (v.)——隐藏真实情感或意图
+3. 伪装物，假扮 (n.)——用于伪装的外表或装扮
+
+### 常用短语
+- **in disguise** — 伪装的；乔装的
+- **a blessing in disguise** — 因祸得福
+- **disguise oneself as** — 把自己伪装成……
+
 ## 例句
 - I have to **disguise** as a prince to find the youth for world revolution.
 

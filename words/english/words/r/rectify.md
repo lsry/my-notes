@@ -14,6 +14,15 @@ tags:
 ## 意思
 vt.纠正；改正；矫正
 
+## 释义
+1. 纠正，改正——将错误修正为正确的状态
+2. 矫正——使某物变直或恢复正确位置
+
+### 常用短语
+- **rectify the situation** — 扭转局面
+- **rectify an error** — 纠正错误
+- **rectify a problem** — 解决问题
+
 ## 例句
 - We must take steps to **rectify** the situation.
 

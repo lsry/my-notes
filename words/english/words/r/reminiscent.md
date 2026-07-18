@@ -14,6 +14,14 @@ tags:
 ## 意思
 adj.怀旧的；n.回忆者
 
+## 释义
+1. 使人想起的——令人联想到某人或某物 (reminiscent of)
+2. 怀旧的——陷入回忆中的
+
+### 常用短语
+- **reminiscent of** — 使人联想到……
+- **look reminiscent** — 陷入回忆的表情
+
 ## 例句
 - A slow, **reminiscent** smile spread over her face.
 

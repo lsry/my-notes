@@ -14,6 +14,15 @@ tags:
 ## 意思
 adj.相关的；有意义的；切题的
 
+## 释义
+1. 相关的，切题的——与当前讨论或主题有直接关联的
+2. 有意义的——有实际重要性的
+
+### 常用短语
+- **relevant to** — 与……相关
+- **relevant information** — 相关信息
+- **remain relevant** — 保持相关性/不过时
+
 ## 例句
 - All the **relevant** records are easily available ready to hand.
 

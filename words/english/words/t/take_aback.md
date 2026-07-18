@@ -14,6 +14,13 @@ tags:
 ## 意思
 惊讶；吃惊
 
+## 释义
+使某人震惊或惊讶——通常用于被动语态 (be taken aback)
+
+### 常用短语
+- **be taken aback** — 大吃一惊
+- **be taken aback by sth** — 被某事惊到
+
 ## 例句
 - I found myself **taken aback**.
 
