@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0580a2548a2ba55c",
+        "id": "5d9aacca499feebb",
         "type": "tabs",
         "children": [
           {
-            "id": "e848e4dc0b530ac4",
+            "id": "9c30c385cdda915d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "record/梁文锋投资人会议文字稿修正稿.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "梁文锋投资人会议文字稿修正稿"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 309.5
   },
   "right": {
     "id": "67892922f39334f3",
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/资源属性.md",
+                "file": "record/梁文锋投资人会议文字稿修正稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "资源属性 的反向链接列表"
+              "title": "梁文锋投资人会议文字稿修正稿 的反向链接列表"
             }
           },
           {
@@ -190,8 +194,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e848e4dc0b530ac4",
+  "active": "0bc132f2d73a0e2e",
   "lastOpenFiles": [
+    "record/梁文锋投资人会议文字稿修正稿.md",
+    "Clippings",
+    "words/english/index/英语单词状态.base",
+    "words/english/index/英语单词索引.language.english.base",
+    "words/english/index/英语单词索引.总计.base",
+    "words/english/index/英语单词索引.md",
+    "record/Caching patterns.md",
+    "record/防止HTML頁面寬度溢出.md",
+    "words/english/words/a/anatomy.md",
+    "words/english/words/n/nemesis.md",
+    "words/english/words/n/nemesis.md.tmp.36772.39690be97a6d",
+    "words/english/words/n",
     "words/english/words/p/perceived.md",
     "words/english/words/p/perceived.md.tmp.2176.dc74b2a8daa2",
     "words/english/words/p/perspective.md",
@@ -200,7 +216,6 @@
     "words/english/words/c/caveat.md",
     "templates/word.md",
     "templates/単語.md",
-    "record/Caching patterns.md",
     "thoughts/资源消耗观念：成本与消费.md",
     "thoughts/资源属性.md",
     "words/english/words/d/dearth.md",
@@ -210,13 +225,6 @@
     "words/english/words/v/vendor.md.tmp.2176.7b1545e04dc5",
     "words/english/words/t/take_aback.md.tmp.2176.b92effe15bbb",
     "words/english/words/r/refractive.md.tmp.2176.d49beabae694",
-    "words/english/words/r/reminiscent.md.tmp.2176.cb484809b2cd",
-    "words/english/words/r/relevant.md.tmp.2176.b13321166a6f",
-    "words/english/words/r/rectify.md.tmp.2176.1be12883607f",
-    "words/english/words/r/ravage.md.tmp.2176.1f00675b22a4",
-    "words/english/words/p/perspective.md.tmp.2176.ef89a0c04b13",
-    "words/english/words/p/proactive.md.tmp.2176.a48ad7b25454",
-    "words/english/words/a/anatomy.md",
     "words/english/words/r/refractive.md",
     "words/english/words/p/proactive.md",
     "words/english/words/a/anomaly.md",
@@ -224,10 +232,6 @@
     "words/english/words/l/likelihood.md",
     "words/english/words/c/consent.md",
     "diary/2026-06-09.md",
-    "日语单词.md",
-    "English.md",
-    "words/english/index/英语单词索引.md",
-    "words/english/words/r/ravage.md",
     "未命名.canvas"
   ]
 }
