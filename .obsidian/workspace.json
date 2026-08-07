@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d9aacca499feebb",
+        "id": "cb8bb8fa0144fc11",
         "type": "tabs",
         "children": [
           {
-            "id": "9c30c385cdda915d",
+            "id": "4d27137d4c291123",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "record/梁文锋投资人会议文字稿修正稿.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "梁文锋投资人会议文字稿修正稿"
+              "title": "新标签页"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "record/梁文锋投资人会议文字稿修正稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "梁文锋投资人会议文字稿修正稿 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -194,16 +191,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0bc132f2d73a0e2e",
+  "active": "4d27137d4c291123",
   "lastOpenFiles": [
+    "thoughts/资源属性.md",
     "record/梁文锋投资人会议文字稿修正稿.md",
+    "record/防止HTML頁面寬度溢出.md",
+    "record/Caching patterns.md",
+    "thoughts/资源消耗观念：成本与消费.md",
     "Clippings",
     "words/english/index/英语单词状态.base",
     "words/english/index/英语单词索引.language.english.base",
     "words/english/index/英语单词索引.总计.base",
     "words/english/index/英语单词索引.md",
-    "record/Caching patterns.md",
-    "record/防止HTML頁面寬度溢出.md",
     "words/english/words/a/anatomy.md",
     "words/english/words/n/nemesis.md",
     "words/english/words/n/nemesis.md.tmp.36772.39690be97a6d",
@@ -216,8 +215,6 @@
     "words/english/words/c/caveat.md",
     "templates/word.md",
     "templates/単語.md",
-    "thoughts/资源消耗观念：成本与消费.md",
-    "thoughts/资源属性.md",
     "words/english/words/d/dearth.md",
     "words/english/words/v/vanish.md",
     "words/english/words/l/leave_out.md",
