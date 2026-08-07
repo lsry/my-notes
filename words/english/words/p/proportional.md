@@ -24,7 +24,8 @@ adj.相称的；成比例的；均衡的
 - **inversely proportional** — 成反比
 
 ## 例句
--
+- The punishment should be **proportional** to the crime.
+  - 惩罚应与罪行相称。
 
 ## 词源
 来自晚期拉丁语 prōportiōnālis，源于拉丁语 prōportiō（"比例"），由 prō（"相对于"）和 portiō（"部分"）组成，字面意为"相对于部分的关系"。

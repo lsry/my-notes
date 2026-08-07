@@ -25,7 +25,9 @@ n.同意，许可；vi.同意，允许
 
 ## 例句
 - He gave his **consent** for the project to proceed.
+  - 他同意了这个项目的进行。
 - She **consented** to the surgery.
+  - 她同意接受手术。
 
 ## 词源
 来自拉丁语 consentīre（"共同感受、同意"），由 com-（"一起"）和 sentīre（"感觉、感受"）构成。与 sentiment（情感）、sense（感觉）同源。

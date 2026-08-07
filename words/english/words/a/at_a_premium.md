@@ -24,6 +24,7 @@ tags:
 
 ## 例句
 - He eventually sold the shares back to the bank **at a premium**.
+  - 他最终以溢价把股票卖回给了银行。
 
 ## 词源
 premium 来自拉丁语 praemium（表"奖励、报酬"），由 prae-（"在前面"）和 emere（"拿、买"）构成，原指"战利品、奖金"，后引申为"溢价"。

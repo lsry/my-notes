@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb8bb8fa0144fc11",
+        "id": "1e9215e889e089fa",
         "type": "tabs",
         "children": [
           {
-            "id": "4d27137d4c291123",
+            "id": "a69a5d4eab483f83",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,24 +191,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4d27137d4c291123",
+  "active": "0bc132f2d73a0e2e",
   "lastOpenFiles": [
+    "words/english/words/r/rectify.md",
+    "words/english/words/p/proportional.md.tmp.20832.da9be46c14fa",
+    "words/english/words/v/vendor.md.tmp.20832.b3db2e449838",
+    "words/english/words/v/vanish.md.tmp.20832.8eb47f39fc3e",
+    "words/english/words/t/take_aback.md.tmp.20832.1e60038b14fb",
+    "words/english/words/r/refractive.md.tmp.20832.04298c59e0dd",
+    "words/english/words/r/relevant.md.tmp.20832.b848a5fc9512",
+    "words/english/words/r/rectify.md.tmp.20832.6de738414e1a",
+    "words/english/words/r/ravage.md.tmp.20832.81457f6b550f",
+    "words/english/words/p/perceived.md.tmp.20832.de12b4cd77a3",
+    "words/english/words/p/perspective.md.tmp.20832.abcfb2a2d809",
+    "words/english/words/a/anatomy.md",
     "thoughts/资源属性.md",
     "record/梁文锋投资人会议文字稿修正稿.md",
     "record/防止HTML頁面寬度溢出.md",
     "record/Caching patterns.md",
     "thoughts/资源消耗观念：成本与消费.md",
-    "Clippings",
-    "words/english/index/英语单词状态.base",
-    "words/english/index/英语单词索引.language.english.base",
-    "words/english/index/英语单词索引.总计.base",
     "words/english/index/英语单词索引.md",
-    "words/english/words/a/anatomy.md",
     "words/english/words/n/nemesis.md",
-    "words/english/words/n/nemesis.md.tmp.36772.39690be97a6d",
-    "words/english/words/n",
     "words/english/words/p/perceived.md",
-    "words/english/words/p/perceived.md.tmp.2176.dc74b2a8daa2",
     "words/english/words/p/perspective.md",
     "words/english/words/d/dedicated.md",
     "words/english/words/c/crux.md",
@@ -219,16 +223,12 @@
     "words/english/words/v/vanish.md",
     "words/english/words/l/leave_out.md",
     "words/english/words/o/oblivious.md",
-    "words/english/words/v/vendor.md.tmp.2176.7b1545e04dc5",
-    "words/english/words/t/take_aback.md.tmp.2176.b92effe15bbb",
-    "words/english/words/r/refractive.md.tmp.2176.d49beabae694",
     "words/english/words/r/refractive.md",
     "words/english/words/p/proactive.md",
     "words/english/words/a/anomaly.md",
     "words/english/words/a/anomalous.md",
     "words/english/words/l/likelihood.md",
     "words/english/words/c/consent.md",
-    "diary/2026-06-09.md",
     "未命名.canvas"
   ]
 }

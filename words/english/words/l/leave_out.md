@@ -25,6 +25,7 @@ tags:
 
 ## 例句
 - If you prefer mild flavours, reduce or **leave out** the chilli.
+  - 如果你喜欢清淡的口味，就少放或省略辣椒。
 
 ## 词源
 短语动词，leave 来自古英语 lǣfan（"留下、遗赠"），与德语 bleiben（"留下"）同源。leave out 意为"遗漏在外"，是基础动词加副词的组合。

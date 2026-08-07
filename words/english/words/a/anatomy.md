@@ -25,7 +25,9 @@ n.解剖学；结构；构造
 
 ## 例句
 - In **anatomy** class, we studied the human skeletal system.
+  - 在解剖学课上，我们学习了人体骨骼系统。
 - The **anatomy** of a business plan includes market analysis, financial projections, and operational strategy.
+  - 商业计划的结构包括市场分析、财务预测和运营策略。
 
 ## 词源
 来自拉丁语 anatomia，源自希腊语 ἀνατομή（anatomē，"切开、解剖"），由 ἀνά（ana-，"向上、分开"）和 τέμνειν（temnein，"切、割"）构成，字面意为"切开来看"。与 atom（原子）同源——atom 原义为"不可切割的"。

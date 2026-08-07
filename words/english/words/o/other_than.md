@@ -24,6 +24,7 @@ tags:
 
 ## 例句
 - Her first customer was none **other than** Mrs Blair.
+  - 她的第一位顾客不是别人，正是布莱尔夫人。
 
 ## 词源
 短语介词，other 来自古英语 ōðer（"另一个"），与德语 ander 同源，源自原始日耳曼语 *anþeraz。than 来自古英语 þanne/þonne（"比较"）。用于否定陈述后强调"不是别的正是"。

@@ -23,6 +23,7 @@ v.使加剧；使恶化；使加重
 
 ## 例句
 - In fact efforts will merely **exacerbate** the current problem.
+  - 事实上，这些努力只会加剧当前的问题。
 
 ## 词源
 来自拉丁语 exacerbātus，是 exacerbāre（"激怒、加剧"）的过去分词，由 ex-（"彻底地"）和 acerbus（"苦涩的、严酷的"）构成。acerbus 与酸味相关，同源词有 acid（酸）、acrid（辛辣的）。

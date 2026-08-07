@@ -24,6 +24,7 @@ n.关键，核心；症结
 
 ## 例句
 - The **crux** of the matter is that we have no time left.
+  - 问题的关键在于我们已经没有时间了。
 
 ## 词源
 直接借自拉丁语 crux（"十字架"），原指"十字架"，后引申为"关键难题"，比喻人在十字路口般的艰难抉择。与 crucial（关键的）、crucify（钉十字架）同源。

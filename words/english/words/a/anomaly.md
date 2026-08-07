@@ -24,6 +24,7 @@ n.异常事物；反常现象
 
 ## 例句
 - Research on Technique of **Anomaly** Detection for Network Situation Awareness System.
+  - 对网络态势感知系统的异常检测技术研究。
 
 ## 词源
 来自希腊语 ἀνωμαλία（anōmalia），由 ἀν-（an-，表"不、非"）和 ὁμαλός（homalos，表"均匀的"）组合而成，字面意为"不均匀"。

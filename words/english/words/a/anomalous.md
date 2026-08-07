@@ -24,6 +24,7 @@ adj.异常的；反常的
 
 ## 例句
 - For years this **anomalous** behaviour has baffled scientists.
+  - 多年来，这种反常行为一直困扰着科学家们。
 
 ## 词源
 来自希腊语 ἀνώμαλος（anōmalos，表"不平坦的、不规则的"），由 ἀν-（an-，表"不"）和 ὁμαλός（homalos，表"均匀的"）构成，与 anomaly 同源。

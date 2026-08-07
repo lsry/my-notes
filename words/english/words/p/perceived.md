@@ -26,7 +26,9 @@ v.感知，察觉；认为；adj.感知到的，被察觉的
 
 ## 例句
 - The problem is widely **perceived** as a failure of leadership.
+  - 这个问题被普遍认为是领导力的失败。
 - **Perceived** quality often matters more than actual quality.
+  - 感知到的质量往往比实际质量更重要。
 
 ## 词源
 来自古法语 perceivre，源自拉丁语 percipere（"彻底获取、理解"），由 per-（"穿过、彻底"）和 capere（"拿、取"）构成，字面意为"彻底把握"。与 perceive（感知）、perception（感知）同源。

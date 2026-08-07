@@ -26,6 +26,7 @@ n.视角，观点；透视法
 
 ## 例句
 - From my **perspective**, the plan seems feasible.
+  - 从我的角度来看，这个计划似乎是可行的。
 
 ## 词源
 来自拉丁语 perspectivus（"透视的、看得清楚的"），是 perspicere（"看透、看清"）的过去分词，由 per-（"穿过"）和 specere（"看"）构成。与 inspect（检查）、spectacle（景象）、prospect（前景）同源。

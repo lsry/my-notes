@@ -25,7 +25,9 @@ adj.专用的；专注的，献身的
 
 ## 例句
 - She is a **dedicated** teacher who always goes the extra mile.
+  - 她是一位尽心尽力的老师，总是付出额外的努力。
 - We have a **dedicated** server for database storage.
+  - 我们有一台用于数据库存储的专用服务器。
 
 ## 词源
 来自拉丁语 dēdicātus，是 dēdicāre（"宣告、奉献"）的过去分词，由 dē-（"完全地"）和 dicāre（"宣告、献出"）构成。与 dictate（口述）、diction（措辞）同源。

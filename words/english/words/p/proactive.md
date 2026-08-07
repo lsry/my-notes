@@ -24,6 +24,7 @@ adj.主动的，积极主动的
 
 ## 例句
 - We need to take a **proactive** approach to problem-solving.
+  - 我们需要采取积极主动的方法来解决问题。
 
 ## 词源
 由 pro-（"向前、提前"）和 active（"积极的、主动的"）组合而成。active 来自拉丁语 āctīvus（"活跃的"），源于 agere（"做、行动"）。该词于1933年首次出现，在心理学领域被使用，后扩展到商业和管理领域。

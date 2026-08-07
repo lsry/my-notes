@@ -23,7 +23,9 @@ adj.未察觉的，不注意的
 
 ## 例句
 - He was **oblivious** to the noise around him.
+  - 他对周围的噪音毫不在意。
 - She remained **oblivious** of the danger she was in.
+  - 她对自己所处的危险毫无察觉。
 
 ## 词源
 来自拉丁语 oblīviōsus（"健忘的、遗忘的"），源于 oblīvīscī（"忘记"），由 ob-（"在…方向"）和 lēv-（"平滑、抹去"）构成，字面意为"抹去记忆"。与 oblivion（遗忘）同源。
